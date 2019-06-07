@@ -1,3 +1,5 @@
 old data
 .*
 IP_Evaluation.ipynb
+*.pcap
+*/*.pcap
